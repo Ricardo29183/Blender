@@ -1,0 +1,1531 @@
+{
+  "assets": [
+    {
+      "name": "PB Cama matrimonial 150",
+      "room": "PB | Recamara invitados",
+      "lo": [
+        0.5899999737739563,
+        0.625,
+        0.20000001788139343
+      ],
+      "hi": [
+        2.2100000381469727,
+        2.7749998569488525,
+        1.5
+      ],
+      "objects": [
+        "Pata",
+        "Pata.001",
+        "Pata.002",
+        "Pata.003",
+        "Base cama",
+        "Colchon",
+        "Edredon",
+        "Dobladillo edredon",
+        "Cabecera tapizada",
+        "Almohada",
+        "Almohada.001",
+        "Costura cabecera",
+        "Costura cabecera.001",
+        "Costura cabecera.002",
+        "Costura cabecera.003",
+        "Costura cabecera.004"
+      ]
+    },
+    {
+      "name": "PB Buro",
+      "room": "PB | Recamara invitados",
+      "lo": [
+        0.1600000113248825,
+        2.188499927520752,
+        0.20000000298023224
+      ],
+      "hi": [
+        0.5799999833106995,
+        2.630000114440918,
+        1.1700000762939453
+      ],
+      "objects": [
+        "Pata.004",
+        "Pata.005",
+        "Pata.006",
+        "Pata.007",
+        "Buro",
+        "Frente cajon",
+        "Base lampara",
+        "Pie lampara",
+        "Pantalla lampara"
+      ]
+    },
+    {
+      "name": "PB Buro",
+      "room": "PB | Recamara invitados",
+      "lo": [
+        0.1600000113248825,
+        2.188499927520752,
+        0.20000000298023224
+      ],
+      "hi": [
+        0.5799999833106995,
+        2.630000114440918,
+        1.1700000762939453
+      ],
+      "objects": [
+        "Pata.008",
+        "Pata.009",
+        "Pata.010",
+        "Pata.011",
+        "Buro.001",
+        "Frente cajon.001",
+        "Base lampara.001",
+        "Pie lampara.001",
+        "Pantalla lampara.001"
+      ]
+    },
+    {
+      "name": "PB Armario invitados",
+      "room": "PB | Recamara invitados",
+      "lo": [
+        3.192499876022339,
+        0.2999999523162842,
+        0.20000000298023224
+      ],
+      "hi": [
+        3.819999933242798,
+        1.7999999523162842,
+        2.4800000190734863
+      ],
+      "objects": [
+        "Zocalo",
+        "Cuerpo armario",
+        "Puerta armario",
+        "Tirador",
+        "Puerta armario.001",
+        "Tirador.001",
+        "Puerta armario.002",
+        "Tirador.002"
+      ]
+    },
+    {
+      "name": "PB Sofa principal",
+      "room": "PB | Sala",
+      "lo": [
+        8.725000381469727,
+        4.824999809265137,
+        0.19999998807907104
+      ],
+      "hi": [
+        9.645000457763672,
+        7.475000381469727,
+        1.1899999380111694
+      ],
+      "objects": [
+        "Pata.012",
+        "Pata.013",
+        "Pata.014",
+        "Pata.015",
+        "Bastidor",
+        "Respaldo",
+        "Brazo",
+        "Brazo.001",
+        "Cojin asiento",
+        "Cojin respaldo",
+        "Cojin asiento.001",
+        "Cojin respaldo.001",
+        "Cojin asiento.002",
+        "Cojin respaldo.002",
+        "Cojin decorativo",
+        "Cojin decorativo.001"
+      ]
+    },
+    {
+      "name": "PB Mueble TV",
+      "room": "PB | Sala",
+      "lo": [
+        5.680000305175781,
+        5.199999809265137,
+        0.19999998807907104
+      ],
+      "hi": [
+        6.100000381469727,
+        7.0,
+        1.7649999856948853
+      ],
+      "objects": [
+        "Pata.016",
+        "Pata.017",
+        "Pata.018",
+        "Pata.019",
+        "Mueble bajo",
+        "Frente mueble",
+        "Frente mueble.001",
+        "Pie TV",
+        "Soporte TV",
+        "Televisor",
+        "Pantalla"
+      ]
+    },
+    {
+      "name": "PB Mesa centro",
+      "room": "PB | Sala",
+      "lo": [
+        6.974999904632568,
+        5.789999961853027,
+        0.20000000298023224
+      ],
+      "hi": [
+        8.024999618530273,
+        6.409999847412109,
+        0.6000000238418579
+      ],
+      "objects": [
+        "Pata.020",
+        "Pata.021",
+        "Pata.022",
+        "Pata.023",
+        "Tablero roble"
+      ]
+    },
+    {
+      "name": "PB Sillon salvia",
+      "room": "PB | Sala",
+      "lo": [
+        6.78000020980835,
+        7.295000076293945,
+        0.19999998807907104
+      ],
+      "hi": [
+        7.71999979019165,
+        8.21500015258789,
+        1.1899999380111694
+      ],
+      "objects": [
+        "Pata.024",
+        "Pata.025",
+        "Pata.026",
+        "Pata.027",
+        "Bastidor.001",
+        "Respaldo.001",
+        "Brazo.002",
+        "Brazo.003",
+        "Cojin asiento.003",
+        "Cojin respaldo.003",
+        "Cojin asiento.004",
+        "Cojin respaldo.004",
+        "Cojin decorativo.002",
+        "Cojin decorativo.003"
+      ]
+    },
+    {
+      "name": "PB Planta sala",
+      "room": "PB | Sala",
+      "lo": [
+        9.171311378479004,
+        7.816741943359375,
+        0.20000000298023224
+      ],
+      "hi": [
+        9.655082702636719,
+        8.423257827758789,
+        1.2014013528823853
+      ],
+      "objects": [
+        "Maceta",
+        "Tierra",
+        "Hoja",
+        "Hoja.001",
+        "Hoja.002",
+        "Hoja.003",
+        "Hoja.004",
+        "Hoja.005",
+        "Hoja.006",
+        "Tallo"
+      ]
+    },
+    {
+      "name": "PB Alfombra sala",
+      "room": "PB | Sala",
+      "lo": [
+        6.244999885559082,
+        4.675000190734863,
+        0.20000000298023224
+      ],
+      "hi": [
+        8.994999885559082,
+        7.625,
+        0.21800000965595245
+      ],
+      "objects": [
+        "Alfombra"
+      ]
+    },
+    {
+      "name": "PB Mesa comedor seis",
+      "room": "PB | Comedor seis plazas",
+      "lo": [
+        7.059999942779541,
+        9.34999942779541,
+        0.20000001788139343
+      ],
+      "hi": [
+        8.140000343322754,
+        11.050000190734863,
+        0.9600000381469727
+      ],
+      "objects": [
+        "Pata.028",
+        "Pata.029",
+        "Pata.030",
+        "Pata.031",
+        "Tablero roble.001"
+      ]
+    },
+    {
+      "name": "PB Silla comedor oeste",
+      "room": "PB | Comedor seis plazas",
+      "lo": [
+        6.429999828338623,
+        9.484999656677246,
+        0.20000001788139343
+      ],
+      "hi": [
+        6.924999713897705,
+        9.97499942779541,
+        1.1100000143051147
+      ],
+      "objects": [
+        "Pata.032",
+        "Pata.033",
+        "Pata.034",
+        "Pata.035",
+        "Asiento tapizado",
+        "Montante respaldo",
+        "Montante respaldo.001",
+        "Respaldo curvo suave"
+      ]
+    },
+    {
+      "name": "PB Silla comedor este",
+      "room": "PB | Comedor seis plazas",
+      "lo": [
+        8.27500057220459,
+        9.484999656677246,
+        0.20000001788139343
+      ],
+      "hi": [
+        8.770000457763672,
+        9.97499942779541,
+        1.1100000143051147
+      ],
+      "objects": [
+        "Pata.036",
+        "Pata.037",
+        "Pata.038",
+        "Pata.039",
+        "Asiento tapizado.001",
+        "Montante respaldo.002",
+        "Montante respaldo.003",
+        "Respaldo curvo suave.001"
+      ]
+    },
+    {
+      "name": "PB Silla comedor oeste",
+      "room": "PB | Comedor seis plazas",
+      "lo": [
+        6.429999828338623,
+        9.484999656677246,
+        0.20000001788139343
+      ],
+      "hi": [
+        6.924999713897705,
+        9.97499942779541,
+        1.1100000143051147
+      ],
+      "objects": [
+        "Pata.040",
+        "Pata.041",
+        "Pata.042",
+        "Pata.043",
+        "Asiento tapizado.002",
+        "Montante respaldo.004",
+        "Montante respaldo.005",
+        "Respaldo curvo suave.002"
+      ]
+    },
+    {
+      "name": "PB Silla comedor este",
+      "room": "PB | Comedor seis plazas",
+      "lo": [
+        8.27500057220459,
+        9.484999656677246,
+        0.20000001788139343
+      ],
+      "hi": [
+        8.770000457763672,
+        9.97499942779541,
+        1.1100000143051147
+      ],
+      "objects": [
+        "Pata.044",
+        "Pata.045",
+        "Pata.046",
+        "Pata.047",
+        "Asiento tapizado.003",
+        "Montante respaldo.006",
+        "Montante respaldo.007",
+        "Respaldo curvo suave.003"
+      ]
+    },
+    {
+      "name": "PB Silla cabecera sur",
+      "room": "PB | Comedor seis plazas",
+      "lo": [
+        7.355000019073486,
+        8.710000038146973,
+        0.20000001788139343
+      ],
+      "hi": [
+        7.84499979019165,
+        9.204999923706055,
+        1.1100000143051147
+      ],
+      "objects": [
+        "Pata.048",
+        "Pata.049",
+        "Pata.050",
+        "Pata.051",
+        "Asiento tapizado.004",
+        "Montante respaldo.008",
+        "Montante respaldo.009",
+        "Respaldo curvo suave.004"
+      ]
+    },
+    {
+      "name": "PB Silla cabecera norte",
+      "room": "PB | Comedor seis plazas",
+      "lo": [
+        7.355000019073486,
+        11.194999694824219,
+        0.20000001788139343
+      ],
+      "hi": [
+        7.84499979019165,
+        11.6899995803833,
+        1.1100000143051147
+      ],
+      "objects": [
+        "Pata.052",
+        "Pata.053",
+        "Pata.054",
+        "Pata.055",
+        "Asiento tapizado.005",
+        "Montante respaldo.010",
+        "Montante respaldo.011",
+        "Respaldo curvo suave.005"
+      ]
+    },
+    {
+      "name": "PB Aparador comedor",
+      "room": "PB | Comedor seis plazas",
+      "lo": [
+        9.359999656677246,
+        9.324999809265137,
+        0.19999998807907104
+      ],
+      "hi": [
+        9.779999732971191,
+        10.97499942779541,
+        0.800000011920929
+      ],
+      "objects": [
+        "Pata.056",
+        "Pata.057",
+        "Pata.058",
+        "Pata.059",
+        "Mueble bajo.001",
+        "Frente mueble.002",
+        "Frente mueble.003"
+      ]
+    },
+    {
+      "name": "PB Cocina tramo izquierdo",
+      "room": "PB | Cocina equipada",
+      "lo": [
+        0.11499999463558197,
+        9.362500190734863,
+        0.19999998807907104
+      ],
+      "hi": [
+        0.7754999995231628,
+        9.977499961853027,
+        1.1100000143051147
+      ],
+      "objects": [
+        "Zocalo cocina",
+        "Mueble cocina",
+        "Cubierta",
+        "Puerta cocina",
+        "Tirador cocina"
+      ]
+    },
+    {
+      "name": "PB Cocina tramo izquierdo",
+      "room": "PB | Cocina equipada",
+      "lo": [
+        0.11499999463558197,
+        9.362500190734863,
+        0.19999998807907104
+      ],
+      "hi": [
+        0.7754999995231628,
+        9.977499961853027,
+        1.1100000143051147
+      ],
+      "objects": [
+        "Zocalo cocina.001",
+        "Mueble cocina.001",
+        "Cubierta.001",
+        "Puerta cocina.001",
+        "Tirador cocina.001"
+      ]
+    },
+    {
+      "name": "PB Cocina tramo izquierdo",
+      "room": "PB | Cocina equipada",
+      "lo": [
+        0.11499999463558197,
+        9.362500190734863,
+        0.19999998807907104
+      ],
+      "hi": [
+        0.7754999995231628,
+        9.977499961853027,
+        1.1100000143051147
+      ],
+      "objects": [
+        "Zocalo cocina.002",
+        "Mueble cocina.002",
+        "Cubierta.002",
+        "Puerta cocina.002",
+        "Tirador cocina.002"
+      ]
+    },
+    {
+      "name": "PB Cocina tramo posterior",
+      "room": "PB | Cocina equipada",
+      "lo": [
+        0.7424999475479126,
+        11.204500198364258,
+        0.19999998807907104
+      ],
+      "hi": [
+        1.3574999570846558,
+        11.864999771118164,
+        1.1100000143051147
+      ],
+      "objects": [
+        "Zocalo cocina.003",
+        "Mueble cocina.003",
+        "Cubierta.003",
+        "Puerta cocina.003",
+        "Tirador cocina.003"
+      ]
+    },
+    {
+      "name": "PB Cocina tramo posterior",
+      "room": "PB | Cocina equipada",
+      "lo": [
+        0.7424999475479126,
+        11.204500198364258,
+        0.19999998807907104
+      ],
+      "hi": [
+        1.3574999570846558,
+        11.864999771118164,
+        1.1100000143051147
+      ],
+      "objects": [
+        "Zocalo cocina.004",
+        "Mueble cocina.004",
+        "Cubierta.004",
+        "Puerta cocina.004",
+        "Tirador cocina.004"
+      ]
+    },
+    {
+      "name": "PB Cocina tramo posterior",
+      "room": "PB | Cocina equipada",
+      "lo": [
+        0.7424999475479126,
+        11.204500198364258,
+        0.19999998807907104
+      ],
+      "hi": [
+        1.3574999570846558,
+        11.864999771118164,
+        1.1100000143051147
+      ],
+      "objects": [
+        "Zocalo cocina.005",
+        "Mueble cocina.005",
+        "Cubierta.005",
+        "Puerta cocina.005",
+        "Tirador cocina.005"
+      ]
+    },
+    {
+      "name": "PB Tarja",
+      "room": "PB | Cocina equipada",
+      "lo": [
+        1.3824999332427979,
+        11.34000015258789,
+        1.1100001335144043
+      ],
+      "hi": [
+        1.9175000190734863,
+        11.805999755859375,
+        1.4560000896453857
+      ],
+      "objects": [
+        "Fondo tarja",
+        "Borde tarja",
+        "Borde tarja.001",
+        "Borde tarja.002",
+        "Borde tarja.003",
+        "Grifo vertical",
+        "Grifo salida",
+        "Desague"
+      ]
+    },
+    {
+      "name": "PB Parrilla induccion",
+      "room": "PB | Cocina equipada",
+      "lo": [
+        0.16500000655651093,
+        9.995000839233398,
+        1.1074999570846558
+      ],
+      "hi": [
+        0.6949999928474426,
+        10.545000076293945,
+        1.1488531827926636
+      ],
+      "objects": [
+        "Placa induccion",
+        "Zona coccion",
+        "Zona coccion.001",
+        "Zona coccion.002",
+        "Zona coccion.003"
+      ]
+    },
+    {
+      "name": "PB Refrigerador",
+      "room": "PB | Cocina equipada",
+      "lo": [
+        2.680000066757202,
+        10.979999542236328,
+        0.19999998807907104
+      ],
+      "hi": [
+        3.379999876022339,
+        11.800000190734863,
+        2.059999942779541
+      ],
+      "objects": [
+        "Refrigerador",
+        "Puerta refrigerador",
+        "Manija refrigerador",
+        "Puerta refrigerador.001",
+        "Manija refrigerador.001"
+      ]
+    },
+    {
+      "name": "PB Escritorio",
+      "room": "PB | Estudio",
+      "lo": [
+        0.6499999761581421,
+        8.40999984741211,
+        0.20000001788139343
+      ],
+      "hi": [
+        2.1500000953674316,
+        8.989999771118164,
+        1.2651784420013428
+      ],
+      "objects": [
+        "Pata.060",
+        "Pata.061",
+        "Pata.062",
+        "Pata.063",
+        "Tablero roble.002",
+        "Cajon escritorio",
+        "Portatil base",
+        "Portatil pantalla",
+        "Cuaderno"
+      ]
+    },
+    {
+      "name": "PB Silla estudio",
+      "room": "PB | Estudio",
+      "lo": [
+        1.1549999713897705,
+        7.690000057220459,
+        0.20000001788139343
+      ],
+      "hi": [
+        1.6449999809265137,
+        8.1850004196167,
+        1.1100000143051147
+      ],
+      "objects": [
+        "Pata.064",
+        "Pata.065",
+        "Pata.066",
+        "Pata.067",
+        "Asiento tapizado.006",
+        "Montante respaldo.012",
+        "Montante respaldo.013",
+        "Respaldo curvo suave.006"
+      ]
+    },
+    {
+      "name": "PB Ducha compacta",
+      "room": "PB | Bano completo compacto",
+      "lo": [
+        2.437499761581421,
+        4.990000247955322,
+        0.20000000298023224
+      ],
+      "hi": [
+        3.2199997901916504,
+        5.8125,
+        2.2249999046325684
+      ],
+      "objects": [
+        "Plato ducha",
+        "Desague ducha",
+        "Mampara marco",
+        "Mampara lateral",
+        "Mampara cristal",
+        "Ducha columna",
+        "Ducha rociador"
+      ]
+    },
+    {
+      "name": "PB Inodoro",
+      "room": "PB | Bano completo compacto",
+      "lo": [
+        2.625,
+        5.920000076293945,
+        0.19999998807907104
+      ],
+      "hi": [
+        3.0349998474121094,
+        6.62999963760376,
+        1.0189999341964722
+      ],
+      "objects": [
+        "Pedestal WC",
+        "Taza WC",
+        "Asiento WC",
+        "Interior taza",
+        "Cisterna",
+        "Tapa cisterna",
+        "Pulsador"
+      ]
+    },
+    {
+      "name": "PB Lavabo compacto",
+      "room": "PB | Bano completo compacto",
+      "lo": [
+        3.317499876022339,
+        6.232500076293945,
+        0.4599999785423279
+      ],
+      "hi": [
+        3.822499990463257,
+        6.682499885559082,
+        1.9500000476837158
+      ],
+      "objects": [
+        "Lavabo mueble",
+        "Frente lavabo",
+        "Encimera lavabo",
+        "Fondo lavabo",
+        "Lateral lavabo",
+        "Lateral lavabo.001",
+        "Lateral lavabo.002",
+        "Lateral lavabo.003",
+        "Grifo lavabo",
+        "Caño lavabo",
+        "Espejo marco",
+        "Espejo"
+      ]
+    },
+    {
+      "name": "PA Cama frontal 150",
+      "room": "PA | Recamara frontal",
+      "lo": [
+        0.5899999737739563,
+        0.625,
+        3.4000000953674316
+      ],
+      "hi": [
+        2.2100000381469727,
+        2.7749998569488525,
+        4.699999809265137
+      ],
+      "objects": [
+        "Pata.068",
+        "Pata.069",
+        "Pata.070",
+        "Pata.071",
+        "Base cama.001",
+        "Colchon.001",
+        "Edredon.001",
+        "Dobladillo edredon.001",
+        "Cabecera tapizada.001",
+        "Almohada.002",
+        "Almohada.003",
+        "Costura cabecera.005",
+        "Costura cabecera.006",
+        "Costura cabecera.007",
+        "Costura cabecera.008",
+        "Costura cabecera.009"
+      ]
+    },
+    {
+      "name": "PA Buro frontal",
+      "room": "PA | Recamara frontal",
+      "lo": [
+        0.1600000113248825,
+        2.188499927520752,
+        3.4000000953674316
+      ],
+      "hi": [
+        0.5799999833106995,
+        2.630000114440918,
+        4.369999885559082
+      ],
+      "objects": [
+        "Pata.072",
+        "Pata.073",
+        "Pata.074",
+        "Pata.075",
+        "Buro.002",
+        "Frente cajon.002",
+        "Base lampara.002",
+        "Pie lampara.002",
+        "Pantalla lampara.002"
+      ]
+    },
+    {
+      "name": "PA Buro frontal",
+      "room": "PA | Recamara frontal",
+      "lo": [
+        0.1600000113248825,
+        2.188499927520752,
+        3.4000000953674316
+      ],
+      "hi": [
+        0.5799999833106995,
+        2.630000114440918,
+        4.369999885559082
+      ],
+      "objects": [
+        "Pata.076",
+        "Pata.077",
+        "Pata.078",
+        "Pata.079",
+        "Buro.003",
+        "Frente cajon.003",
+        "Base lampara.003",
+        "Pie lampara.003",
+        "Pantalla lampara.003"
+      ]
+    },
+    {
+      "name": "PA Armario frontal",
+      "room": "PA | Recamara frontal",
+      "lo": [
+        3.192499876022339,
+        0.2999999523162842,
+        3.4000000953674316
+      ],
+      "hi": [
+        3.819999933242798,
+        1.7999999523162842,
+        5.679999828338623
+      ],
+      "objects": [
+        "Zocalo.001",
+        "Cuerpo armario.001",
+        "Puerta armario.003",
+        "Tirador.003",
+        "Puerta armario.004",
+        "Tirador.004",
+        "Puerta armario.005",
+        "Tirador.005"
+      ]
+    },
+    {
+      "name": "PA Recamara 3 cama 135",
+      "room": "PA | Recamara 3",
+      "lo": [
+        0.684999942779541,
+        7.194999694824219,
+        3.4000000953674316
+      ],
+      "hi": [
+        2.1549999713897705,
+        9.345000267028809,
+        4.699999809265137
+      ],
+      "objects": [
+        "Pata.080",
+        "Pata.081",
+        "Pata.082",
+        "Pata.083",
+        "Base cama.002",
+        "Colchon.002",
+        "Edredon.002",
+        "Dobladillo edredon.002",
+        "Cabecera tapizada.002",
+        "Almohada.004",
+        "Almohada.005",
+        "Costura cabecera.010",
+        "Costura cabecera.011",
+        "Costura cabecera.012",
+        "Costura cabecera.013",
+        "Costura cabecera.014"
+      ]
+    },
+    {
+      "name": "PA Recamara 3 buro",
+      "room": "PA | Recamara 3",
+      "lo": [
+        2.190000057220459,
+        8.728500366210938,
+        3.4000000953674316
+      ],
+      "hi": [
+        2.6100001335144043,
+        9.170000076293945,
+        4.369999885559082
+      ],
+      "objects": [
+        "Pata.084",
+        "Pata.085",
+        "Pata.086",
+        "Pata.087",
+        "Buro.004",
+        "Frente cajon.004",
+        "Base lampara.004",
+        "Pie lampara.004",
+        "Pantalla lampara.004"
+      ]
+    },
+    {
+      "name": "PA Recamara 3 armario compacto",
+      "room": "PA | Recamara 3",
+      "lo": [
+        3.2124998569488525,
+        8.5600004196167,
+        3.4000000953674316
+      ],
+      "hi": [
+        3.8399999141693115,
+        9.359999656677246,
+        5.679999828338623
+      ],
+      "objects": [
+        "Zocalo.002",
+        "Cuerpo armario.002",
+        "Puerta armario.006",
+        "Tirador.006",
+        "Puerta armario.007",
+        "Tirador.007"
+      ]
+    },
+    {
+      "name": "PA Recamara 4 cama 135",
+      "room": "PA | Recamara 4",
+      "lo": [
+        0.684999942779541,
+        9.694999694824219,
+        3.4000000953674316
+      ],
+      "hi": [
+        2.1549999713897705,
+        11.845000267028809,
+        4.699999809265137
+      ],
+      "objects": [
+        "Pata.088",
+        "Pata.089",
+        "Pata.090",
+        "Pata.091",
+        "Base cama.003",
+        "Colchon.003",
+        "Edredon.003",
+        "Dobladillo edredon.003",
+        "Cabecera tapizada.003",
+        "Almohada.006",
+        "Almohada.007",
+        "Costura cabecera.015",
+        "Costura cabecera.016",
+        "Costura cabecera.017",
+        "Costura cabecera.018",
+        "Costura cabecera.019"
+      ]
+    },
+    {
+      "name": "PA Recamara 4 buro",
+      "room": "PA | Recamara 4",
+      "lo": [
+        2.190000057220459,
+        11.228500366210938,
+        3.4000000953674316
+      ],
+      "hi": [
+        2.6100001335144043,
+        11.670000076293945,
+        4.369999885559082
+      ],
+      "objects": [
+        "Pata.092",
+        "Pata.093",
+        "Pata.094",
+        "Pata.095",
+        "Buro.005",
+        "Frente cajon.005",
+        "Base lampara.005",
+        "Pie lampara.005",
+        "Pantalla lampara.005"
+      ]
+    },
+    {
+      "name": "PA Recamara 4 armario compacto",
+      "room": "PA | Recamara 4",
+      "lo": [
+        3.2124998569488525,
+        11.0600004196167,
+        3.4000000953674316
+      ],
+      "hi": [
+        3.8399999141693115,
+        11.859999656677246,
+        5.679999828338623
+      ],
+      "objects": [
+        "Zocalo.003",
+        "Cuerpo armario.003",
+        "Puerta armario.008",
+        "Tirador.008",
+        "Puerta armario.009",
+        "Tirador.009"
+      ]
+    },
+    {
+      "name": "PA Cama principal 180",
+      "room": "PA | Recamara principal posterior",
+      "lo": [
+        6.989999771118164,
+        9.614999771118164,
+        3.4000000953674316
+      ],
+      "hi": [
+        8.90999984741211,
+        11.765000343322754,
+        4.699999809265137
+      ],
+      "objects": [
+        "Pata.096",
+        "Pata.097",
+        "Pata.098",
+        "Pata.099",
+        "Base cama.004",
+        "Colchon.004",
+        "Edredon.004",
+        "Dobladillo edredon.004",
+        "Cabecera tapizada.004",
+        "Almohada.008",
+        "Almohada.009",
+        "Costura cabecera.020",
+        "Costura cabecera.021",
+        "Costura cabecera.022",
+        "Costura cabecera.023",
+        "Costura cabecera.024"
+      ]
+    },
+    {
+      "name": "PA Buro principal",
+      "room": "PA | Recamara principal posterior",
+      "lo": [
+        6.429999828338623,
+        11.108500480651855,
+        3.4000000953674316
+      ],
+      "hi": [
+        6.849999904632568,
+        11.550000190734863,
+        4.369999885559082
+      ],
+      "objects": [
+        "Pata.100",
+        "Pata.101",
+        "Pata.102",
+        "Pata.103",
+        "Buro.006",
+        "Frente cajon.006",
+        "Base lampara.006",
+        "Pie lampara.006",
+        "Pantalla lampara.006"
+      ]
+    },
+    {
+      "name": "PA Buro principal",
+      "room": "PA | Recamara principal posterior",
+      "lo": [
+        6.429999828338623,
+        11.108500480651855,
+        3.4000000953674316
+      ],
+      "hi": [
+        6.849999904632568,
+        11.550000190734863,
+        4.369999885559082
+      ],
+      "objects": [
+        "Pata.104",
+        "Pata.105",
+        "Pata.106",
+        "Pata.107",
+        "Buro.007",
+        "Frente cajon.007",
+        "Base lampara.007",
+        "Pie lampara.007",
+        "Pantalla lampara.007"
+      ]
+    },
+    {
+      "name": "PA Armario principal",
+      "room": "PA | Recamara principal posterior",
+      "lo": [
+        5.740000247955322,
+        9.125,
+        3.4000000953674316
+      ],
+      "hi": [
+        6.367499828338623,
+        10.975000381469727,
+        5.679999828338623
+      ],
+      "objects": [
+        "Zocalo.004",
+        "Cuerpo armario.004",
+        "Puerta armario.010",
+        "Tirador.010",
+        "Puerta armario.011",
+        "Tirador.011",
+        "Puerta armario.012",
+        "Tirador.012",
+        "Puerta armario.013",
+        "Tirador.013"
+      ]
+    },
+    {
+      "name": "PA Escritorio principal",
+      "room": "PA | Recamara principal posterior",
+      "lo": [
+        9.260000228881836,
+        8.34999942779541,
+        3.4000000953674316
+      ],
+      "hi": [
+        9.84000015258789,
+        9.449999809265137,
+        4.465178489685059
+      ],
+      "objects": [
+        "Pata.108",
+        "Pata.109",
+        "Pata.110",
+        "Pata.111",
+        "Tablero roble.003",
+        "Cajon escritorio.001",
+        "Portatil base.001",
+        "Portatil pantalla.001",
+        "Cuaderno.001"
+      ]
+    },
+    {
+      "name": "PA Silla principal",
+      "room": "PA | Recamara principal posterior",
+      "lo": [
+        8.550000190734863,
+        8.654999732971191,
+        3.4000000953674316
+      ],
+      "hi": [
+        9.045000076293945,
+        9.144999504089355,
+        4.309999942779541
+      ],
+      "objects": [
+        "Pata.112",
+        "Pata.113",
+        "Pata.114",
+        "Pata.115",
+        "Asiento tapizado.007",
+        "Montante respaldo.014",
+        "Montante respaldo.015",
+        "Respaldo curvo suave.007"
+      ]
+    },
+    {
+      "name": "PA Sofa familiar",
+      "room": "PA | Sala familiar",
+      "lo": [
+        5.984999656677246,
+        4.849999904632568,
+        3.4000000953674316
+      ],
+      "hi": [
+        6.904999732971191,
+        7.049999713897705,
+        4.390000343322754
+      ],
+      "objects": [
+        "Pata.116",
+        "Pata.117",
+        "Pata.118",
+        "Pata.119",
+        "Bastidor.002",
+        "Respaldo.002",
+        "Brazo.004",
+        "Brazo.005",
+        "Cojin asiento.005",
+        "Cojin respaldo.005",
+        "Cojin asiento.006",
+        "Cojin respaldo.006",
+        "Cojin asiento.007",
+        "Cojin respaldo.007",
+        "Cojin decorativo.004",
+        "Cojin decorativo.005"
+      ]
+    },
+    {
+      "name": "PA TV familiar",
+      "room": "PA | Sala familiar",
+      "lo": [
+        9.389999389648438,
+        5.049999713897705,
+        3.4000000953674316
+      ],
+      "hi": [
+        9.809999465942383,
+        6.849999904632568,
+        4.965000152587891
+      ],
+      "objects": [
+        "Pata.120",
+        "Pata.121",
+        "Pata.122",
+        "Pata.123",
+        "Mueble bajo.002",
+        "Frente mueble.004",
+        "Frente mueble.005",
+        "Pie TV.001",
+        "Soporte TV.001",
+        "Televisor.001",
+        "Pantalla.001"
+      ]
+    },
+    {
+      "name": "PA Mesa centro familiar",
+      "room": "PA | Sala familiar",
+      "lo": [
+        7.725000381469727,
+        5.424999713897705,
+        3.4000000953674316
+      ],
+      "hi": [
+        8.375,
+        6.474999904632568,
+        3.8000001907348633
+      ],
+      "objects": [
+        "Pata.124",
+        "Pata.125",
+        "Pata.126",
+        "Pata.127",
+        "Tablero roble.004"
+      ]
+    },
+    {
+      "name": "PA Sillon familiar",
+      "room": "PA | Sala familiar",
+      "lo": [
+        7.880000591278076,
+        6.994999885559082,
+        3.4000000953674316
+      ],
+      "hi": [
+        8.820000648498535,
+        7.914999485015869,
+        4.390000343322754
+      ],
+      "objects": [
+        "Pata.128",
+        "Pata.129",
+        "Pata.130",
+        "Pata.131",
+        "Bastidor.003",
+        "Respaldo.003",
+        "Brazo.006",
+        "Brazo.007",
+        "Cojin asiento.008",
+        "Cojin respaldo.008",
+        "Cojin asiento.009",
+        "Cojin respaldo.009",
+        "Cojin decorativo.006",
+        "Cojin decorativo.007"
+      ]
+    },
+    {
+      "name": "PA Alfombra familiar",
+      "room": "PA | Sala familiar",
+      "lo": [
+        6.725000381469727,
+        4.5,
+        3.4000000953674316
+      ],
+      "hi": [
+        9.375,
+        7.399999618530273,
+        3.4180002212524414
+      ],
+      "objects": [
+        "Alfombra.001"
+      ]
+    },
+    {
+      "name": "PA Inodoro compacto",
+      "room": "PA | Medio bano",
+      "lo": [
+        2.4600000381469727,
+        6.284999847412109,
+        3.4000000953674316
+      ],
+      "hi": [
+        3.169999837875366,
+        6.694999694824219,
+        4.219000339508057
+      ],
+      "objects": [
+        "Pedestal WC.001",
+        "Taza WC.001",
+        "Asiento WC.001",
+        "Interior taza.001",
+        "Cisterna.001",
+        "Tapa cisterna.001",
+        "Pulsador.001"
+      ]
+    },
+    {
+      "name": "PA Lavabo compacto",
+      "room": "PA | Medio bano",
+      "lo": [
+        2.8324999809265137,
+        5.697499752044678,
+        3.6600000858306885
+      ],
+      "hi": [
+        3.4074997901916504,
+        6.1474995613098145,
+        5.150000095367432
+      ],
+      "objects": [
+        "Lavabo mueble.001",
+        "Frente lavabo.001",
+        "Encimera lavabo.001",
+        "Fondo lavabo.001",
+        "Lateral lavabo.004",
+        "Lateral lavabo.005",
+        "Lateral lavabo.006",
+        "Lateral lavabo.007",
+        "Grifo lavabo.001",
+        "Caño lavabo.001",
+        "Espejo marco.001",
+        "Espejo.001"
+      ]
+    },
+    {
+      "name": "Terraza sofa",
+      "room": "PA | Terraza",
+      "lo": [
+        6.099999904632568,
+        0.3849999010562897,
+        3.440000057220459
+      ],
+      "hi": [
+        8.500000953674316,
+        1.3050001859664917,
+        4.430000305175781
+      ],
+      "objects": [
+        "Pata.132",
+        "Pata.133",
+        "Pata.134",
+        "Pata.135",
+        "Bastidor.004",
+        "Respaldo.004",
+        "Brazo.008",
+        "Brazo.009",
+        "Cojin asiento.010",
+        "Cojin respaldo.010",
+        "Cojin asiento.011",
+        "Cojin respaldo.011",
+        "Cojin asiento.012",
+        "Cojin respaldo.012",
+        "Cojin decorativo.008",
+        "Cojin decorativo.009"
+      ]
+    },
+    {
+      "name": "Terraza sillon oeste",
+      "room": "PA | Terraza",
+      "lo": [
+        5.485000133514404,
+        1.6800000667572021,
+        3.440000057220459
+      ],
+      "hi": [
+        6.404999732971191,
+        2.620000123977661,
+        4.430000305175781
+      ],
+      "objects": [
+        "Pata.136",
+        "Pata.137",
+        "Pata.138",
+        "Pata.139",
+        "Bastidor.005",
+        "Respaldo.005",
+        "Brazo.010",
+        "Brazo.011",
+        "Cojin asiento.013",
+        "Cojin respaldo.013",
+        "Cojin asiento.014",
+        "Cojin respaldo.014",
+        "Cojin decorativo.010",
+        "Cojin decorativo.011"
+      ]
+    },
+    {
+      "name": "Terraza sillon este",
+      "room": "PA | Terraza",
+      "lo": [
+        8.444999694824219,
+        1.6800000667572021,
+        3.440000057220459
+      ],
+      "hi": [
+        9.364999771118164,
+        2.620000123977661,
+        4.430000305175781
+      ],
+      "objects": [
+        "Pata.140",
+        "Pata.141",
+        "Pata.142",
+        "Pata.143",
+        "Bastidor.006",
+        "Respaldo.006",
+        "Brazo.012",
+        "Brazo.013",
+        "Cojin asiento.015",
+        "Cojin respaldo.015",
+        "Cojin asiento.016",
+        "Cojin respaldo.016",
+        "Cojin decorativo.012",
+        "Cojin decorativo.013"
+      ]
+    },
+    {
+      "name": "Terraza mesa",
+      "room": "PA | Terraza",
+      "lo": [
+        6.824999809265137,
+        1.8400001525878906,
+        3.440000057220459
+      ],
+      "hi": [
+        7.875,
+        2.4600000381469727,
+        3.870000123977661
+      ],
+      "objects": [
+        "Pata.144",
+        "Pata.145",
+        "Pata.146",
+        "Pata.147",
+        "Tablero roble.005"
+      ]
+    },
+    {
+      "name": "Terraza jardinera",
+      "room": "PA | Terraza",
+      "lo": [
+        9.12131118774414,
+        2.996741771697998,
+        3.440000057220459
+      ],
+      "hi": [
+        9.605082511901855,
+        3.6032581329345703,
+        4.441401481628418
+      ],
+      "objects": [
+        "Maceta.001",
+        "Tierra.001",
+        "Hoja.007",
+        "Hoja.008",
+        "Hoja.009",
+        "Hoja.010",
+        "Hoja.011",
+        "Hoja.012",
+        "Hoja.013",
+        "Tallo.001"
+      ]
+    },
+    {
+      "name": "Terraza jardinera",
+      "room": "PA | Terraza",
+      "lo": [
+        9.12131118774414,
+        2.996741771697998,
+        3.440000057220459
+      ],
+      "hi": [
+        9.605082511901855,
+        3.6032581329345703,
+        4.441401481628418
+      ],
+      "objects": [
+        "Maceta.002",
+        "Tierra.002",
+        "Hoja.014",
+        "Hoja.015",
+        "Hoja.016",
+        "Hoja.017",
+        "Hoja.018",
+        "Hoja.019",
+        "Hoja.020",
+        "Tallo.002"
+      ]
+    }
+  ],
+  "architecture_candidates": []
+}

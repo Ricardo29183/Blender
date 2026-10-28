@@ -1,0 +1,45 @@
+CASA AMUEBLADA — PROPUESTA A ESCALA
+
+Abre Casa_amueblada.blend. Conserva la arquitectura original y añade muebles
+editables, organizados en la colección «AMUEBLADO | propuesta contemporanea».
+Cada ambiente tiene una subcolección; cada mueble tiene un Empty padre para
+moverlo completo con sus piezas. Selecciona el padre para mover todo el mueble.
+Las medidas están en metros. No se necesitan texturas ni recursos externos.
+
+CONTENIDO
+61 grupos: cinco recámaras con camas, armarios y burós; sala principal y sala
+familiar con sofás y TV; comedor de seis plazas; cocina en L con tarja, parrilla
+y refrigerador; escritorio de estudio y escritorio en recámara principal;
+baño completo compacto abajo, medio baño arriba; terraza con asientos y plantas.
+Estilo contemporáneo: roble, lino arena, salvia, azul y terracota.
+No se modificaron muros, puertas ni escaleras; la cochera se conserva libre.
+
+VISTAS
+En el selector de escenas de la barra superior de Blender:
+01 | Casa completa amueblada — modelo completo y cámara exterior.
+02 | Planta baja amueblada — cámara de corte cenital, mobiliario PB.
+03 | Planta alta amueblada — cámara de corte cenital, mobiliario PA.
+Numpad 0 permite ver la cámara; F12 vuelve a renderizar la escena seleccionada.
+Las cámaras cenitales cortan mediante el plano cercano; sus capas de vista
+ocultan las cubiertas y la planta superior para iluminar los interiores.
+La arquitectura está agrupada por planta; sus mallas permanecen intactas.
+Las imágenes Planta_baja.png y Planta_alta.png muestran la distribución.
+La apariencia en la vista 3D depende del modo de sombreado elegido.
+
+VALIDACIÓN Y LÍMITES
+Se comprobó que los 537 objetos originales mantienen sus vértices, polígonos
+y transformaciones. El archivo original en /workspace/Blender no se modificó.
+La comprobación estática no encontró cruces de cajas envolventes de más de
+8 mm entre los grupos de muebles y la arquitectura. Los encuentros originales
+entre muros no se corrigieron. Hay uniones intencionales entre las piezas de
+los propios muebles y entre las cubiertas de los módulos de cocina.
+La propuesta no verifica barrido de puertas, apertura de cajones, accesibilidad,
+instalaciones sanitarias/eléctricas ni cumplimiento de normas. Los sanitarios
+compactos requieren revisar holguras de uso antes de una ejecución real.
+No representa un proyecto ejecutivo ni una selección comercial de productos.
+
+VERSIÓN
+Creado y reabierto correctamente con Blender 4.3.2, que es la versión instalada.
+Usa mallas y materiales básicos. La apertura en Blender 4.1 no se ha verificado;
+conserva tu original y utiliza 4.3.2 si Blender 4.1 advierte incompatibilidad.
+Inventario.csv e inventario_mobiliario.json detallan los muebles y sus medidas.

@@ -1,0 +1,62 @@
+Ambiente,Mueble,Ancho envolvente m,Fondo envolvente m,Alto envolvente m
+PB | Recamara invitados,PB Cama matrimonial 150,1.62,2.15,1.3
+PB | Recamara invitados,PB Buro,0.42,0.442,0.97
+PB | Recamara invitados,PB Buro,0.42,0.442,0.97
+PB | Recamara invitados,PB Armario invitados,0.628,1.5,2.28
+PB | Sala,PB Sofa principal,0.92,2.65,0.99
+PB | Sala,PB Mueble TV,0.42,1.8,1.565
+PB | Sala,PB Mesa centro,1.05,0.62,0.4
+PB | Sala,PB Sillon salvia,0.94,0.92,0.99
+PB | Sala,PB Planta sala,0.484,0.607,1.001
+PB | Sala,PB Alfombra sala,2.75,2.95,0.018
+PB | Comedor seis plazas,PB Mesa comedor seis,1.08,1.7,0.76
+PB | Comedor seis plazas,PB Silla comedor oeste,0.495,0.49,0.91
+PB | Comedor seis plazas,PB Silla comedor este,0.495,0.49,0.91
+PB | Comedor seis plazas,PB Silla comedor oeste,0.495,0.49,0.91
+PB | Comedor seis plazas,PB Silla comedor este,0.495,0.49,0.91
+PB | Comedor seis plazas,PB Silla cabecera sur,0.49,0.495,0.91
+PB | Comedor seis plazas,PB Silla cabecera norte,0.49,0.495,0.91
+PB | Comedor seis plazas,PB Aparador comedor,0.42,1.65,0.6
+PB | Cocina equipada,PB Cocina tramo izquierdo,0.661,0.615,0.91
+PB | Cocina equipada,PB Cocina tramo izquierdo,0.661,0.615,0.91
+PB | Cocina equipada,PB Cocina tramo izquierdo,0.661,0.615,0.91
+PB | Cocina equipada,PB Cocina tramo posterior,0.615,0.66,0.91
+PB | Cocina equipada,PB Cocina tramo posterior,0.615,0.66,0.91
+PB | Cocina equipada,PB Cocina tramo posterior,0.615,0.66,0.91
+PB | Cocina equipada,PB Tarja,0.535,0.466,0.346
+PB | Cocina equipada,PB Parrilla induccion,0.53,0.55,0.041
+PB | Cocina equipada,PB Refrigerador,0.7,0.82,1.86
+PB | Estudio,PB Escritorio,1.5,0.58,1.065
+PB | Estudio,PB Silla estudio,0.49,0.495,0.91
+PB | Bano completo compacto,PB Ducha compacta,0.783,0.822,2.025
+PB | Bano completo compacto,PB Inodoro,0.41,0.71,0.819
+PB | Bano completo compacto,PB Lavabo compacto,0.505,0.45,1.49
+PA | Recamara frontal,PA Cama frontal 150,1.62,2.15,1.3
+PA | Recamara frontal,PA Buro frontal,0.42,0.442,0.97
+PA | Recamara frontal,PA Buro frontal,0.42,0.442,0.97
+PA | Recamara frontal,PA Armario frontal,0.628,1.5,2.28
+PA | Recamara 3,PA Recamara 3 cama 135,1.47,2.15,1.3
+PA | Recamara 3,PA Recamara 3 buro,0.42,0.441,0.97
+PA | Recamara 3,PA Recamara 3 armario compacto,0.628,0.8,2.28
+PA | Recamara 4,PA Recamara 4 cama 135,1.47,2.15,1.3
+PA | Recamara 4,PA Recamara 4 buro,0.42,0.441,0.97
+PA | Recamara 4,PA Recamara 4 armario compacto,0.628,0.8,2.28
+PA | Recamara principal posterior,PA Cama principal 180,1.92,2.15,1.3
+PA | Recamara principal posterior,PA Buro principal,0.42,0.441,0.97
+PA | Recamara principal posterior,PA Buro principal,0.42,0.441,0.97
+PA | Recamara principal posterior,PA Armario principal,0.627,1.85,2.28
+PA | Recamara principal posterior,PA Escritorio principal,0.58,1.1,1.065
+PA | Recamara principal posterior,PA Silla principal,0.495,0.49,0.91
+PA | Sala familiar,PA Sofa familiar,0.92,2.2,0.99
+PA | Sala familiar,PA TV familiar,0.42,1.8,1.565
+PA | Sala familiar,PA Mesa centro familiar,0.65,1.05,0.4
+PA | Sala familiar,PA Sillon familiar,0.94,0.92,0.99
+PA | Sala familiar,PA Alfombra familiar,2.65,2.9,0.018
+PA | Medio bano,PA Inodoro compacto,0.71,0.41,0.819
+PA | Medio bano,PA Lavabo compacto,0.575,0.45,1.49
+PA | Terraza,Terraza sofa,2.4,0.92,0.99
+PA | Terraza,Terraza sillon oeste,0.92,0.94,0.99
+PA | Terraza,Terraza sillon este,0.92,0.94,0.99
+PA | Terraza,Terraza mesa,1.05,0.62,0.43
+PA | Terraza,Terraza jardinera,0.484,0.607,1.001
+PA | Terraza,Terraza jardinera,0.484,0.607,1.001
